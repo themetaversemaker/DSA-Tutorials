@@ -24,6 +24,7 @@ namespace Array_Basics
             }
             Console.WriteLine("----------------------------");
             Console.WriteLine("Hamilton's Position in array :: "+ Array.IndexOf(drivers, "Hamilton"));
+           
         }
     }
 }
