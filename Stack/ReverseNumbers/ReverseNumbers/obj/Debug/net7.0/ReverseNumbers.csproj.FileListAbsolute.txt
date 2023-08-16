@@ -1,0 +1,15 @@
+C:\Users\shank\OneDrive\DSA-Tutorials\Stack\ReverseNumbers\ReverseNumbers\bin\Debug\net7.0\ReverseNumbers.exe
+C:\Users\shank\OneDrive\DSA-Tutorials\Stack\ReverseNumbers\ReverseNumbers\bin\Debug\net7.0\ReverseNumbers.deps.json
+C:\Users\shank\OneDrive\DSA-Tutorials\Stack\ReverseNumbers\ReverseNumbers\bin\Debug\net7.0\ReverseNumbers.runtimeconfig.json
+C:\Users\shank\OneDrive\DSA-Tutorials\Stack\ReverseNumbers\ReverseNumbers\bin\Debug\net7.0\ReverseNumbers.dll
+C:\Users\shank\OneDrive\DSA-Tutorials\Stack\ReverseNumbers\ReverseNumbers\bin\Debug\net7.0\ReverseNumbers.pdb
+C:\Users\shank\OneDrive\DSA-Tutorials\Stack\ReverseNumbers\ReverseNumbers\obj\Debug\net7.0\ReverseNumbers.csproj.AssemblyReference.cache
+C:\Users\shank\OneDrive\DSA-Tutorials\Stack\ReverseNumbers\ReverseNumbers\obj\Debug\net7.0\ReverseNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shank\OneDrive\DSA-Tutorials\Stack\ReverseNumbers\ReverseNumbers\obj\Debug\net7.0\ReverseNumbers.AssemblyInfoInputs.cache
+C:\Users\shank\OneDrive\DSA-Tutorials\Stack\ReverseNumbers\ReverseNumbers\obj\Debug\net7.0\ReverseNumbers.AssemblyInfo.cs
+C:\Users\shank\OneDrive\DSA-Tutorials\Stack\ReverseNumbers\ReverseNumbers\obj\Debug\net7.0\ReverseNumbers.csproj.CoreCompileInputs.cache
+C:\Users\shank\OneDrive\DSA-Tutorials\Stack\ReverseNumbers\ReverseNumbers\obj\Debug\net7.0\ReverseNumbers.dll
+C:\Users\shank\OneDrive\DSA-Tutorials\Stack\ReverseNumbers\ReverseNumbers\obj\Debug\net7.0\refint\ReverseNumbers.dll
+C:\Users\shank\OneDrive\DSA-Tutorials\Stack\ReverseNumbers\ReverseNumbers\obj\Debug\net7.0\ReverseNumbers.pdb
+C:\Users\shank\OneDrive\DSA-Tutorials\Stack\ReverseNumbers\ReverseNumbers\obj\Debug\net7.0\ReverseNumbers.genruntimeconfig.cache
+C:\Users\shank\OneDrive\DSA-Tutorials\Stack\ReverseNumbers\ReverseNumbers\obj\Debug\net7.0\ref\ReverseNumbers.dll
