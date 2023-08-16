@@ -1,0 +1,15 @@
+C:\Users\shank\OneDrive\DSA-Tutorials\Stack\Push Pop Challenge\Push Pop Challenge\bin\Debug\net7.0\Push Pop Challenge.exe
+C:\Users\shank\OneDrive\DSA-Tutorials\Stack\Push Pop Challenge\Push Pop Challenge\bin\Debug\net7.0\Push Pop Challenge.deps.json
+C:\Users\shank\OneDrive\DSA-Tutorials\Stack\Push Pop Challenge\Push Pop Challenge\bin\Debug\net7.0\Push Pop Challenge.runtimeconfig.json
+C:\Users\shank\OneDrive\DSA-Tutorials\Stack\Push Pop Challenge\Push Pop Challenge\bin\Debug\net7.0\Push Pop Challenge.dll
+C:\Users\shank\OneDrive\DSA-Tutorials\Stack\Push Pop Challenge\Push Pop Challenge\bin\Debug\net7.0\Push Pop Challenge.pdb
+C:\Users\shank\OneDrive\DSA-Tutorials\Stack\Push Pop Challenge\Push Pop Challenge\obj\Debug\net7.0\Push Pop Challenge.csproj.AssemblyReference.cache
+C:\Users\shank\OneDrive\DSA-Tutorials\Stack\Push Pop Challenge\Push Pop Challenge\obj\Debug\net7.0\Push Pop Challenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shank\OneDrive\DSA-Tutorials\Stack\Push Pop Challenge\Push Pop Challenge\obj\Debug\net7.0\Push Pop Challenge.AssemblyInfoInputs.cache
+C:\Users\shank\OneDrive\DSA-Tutorials\Stack\Push Pop Challenge\Push Pop Challenge\obj\Debug\net7.0\Push Pop Challenge.AssemblyInfo.cs
+C:\Users\shank\OneDrive\DSA-Tutorials\Stack\Push Pop Challenge\Push Pop Challenge\obj\Debug\net7.0\Push Pop Challenge.csproj.CoreCompileInputs.cache
+C:\Users\shank\OneDrive\DSA-Tutorials\Stack\Push Pop Challenge\Push Pop Challenge\obj\Debug\net7.0\Push Pop Challenge.dll
+C:\Users\shank\OneDrive\DSA-Tutorials\Stack\Push Pop Challenge\Push Pop Challenge\obj\Debug\net7.0\refint\Push Pop Challenge.dll
+C:\Users\shank\OneDrive\DSA-Tutorials\Stack\Push Pop Challenge\Push Pop Challenge\obj\Debug\net7.0\Push Pop Challenge.pdb
+C:\Users\shank\OneDrive\DSA-Tutorials\Stack\Push Pop Challenge\Push Pop Challenge\obj\Debug\net7.0\Push Pop Challenge.genruntimeconfig.cache
+C:\Users\shank\OneDrive\DSA-Tutorials\Stack\Push Pop Challenge\Push Pop Challenge\obj\Debug\net7.0\ref\Push Pop Challenge.dll
