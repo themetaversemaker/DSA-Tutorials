@@ -1,0 +1,15 @@
+C:\Users\shank\OneDrive\DSA-Tutorials\Stack\StackChallenge2\StackChallenge2\bin\Debug\net7.0\StackChallenge2.exe
+C:\Users\shank\OneDrive\DSA-Tutorials\Stack\StackChallenge2\StackChallenge2\bin\Debug\net7.0\StackChallenge2.deps.json
+C:\Users\shank\OneDrive\DSA-Tutorials\Stack\StackChallenge2\StackChallenge2\bin\Debug\net7.0\StackChallenge2.runtimeconfig.json
+C:\Users\shank\OneDrive\DSA-Tutorials\Stack\StackChallenge2\StackChallenge2\bin\Debug\net7.0\StackChallenge2.dll
+C:\Users\shank\OneDrive\DSA-Tutorials\Stack\StackChallenge2\StackChallenge2\bin\Debug\net7.0\StackChallenge2.pdb
+C:\Users\shank\OneDrive\DSA-Tutorials\Stack\StackChallenge2\StackChallenge2\obj\Debug\net7.0\StackChallenge2.csproj.AssemblyReference.cache
+C:\Users\shank\OneDrive\DSA-Tutorials\Stack\StackChallenge2\StackChallenge2\obj\Debug\net7.0\StackChallenge2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shank\OneDrive\DSA-Tutorials\Stack\StackChallenge2\StackChallenge2\obj\Debug\net7.0\StackChallenge2.AssemblyInfoInputs.cache
+C:\Users\shank\OneDrive\DSA-Tutorials\Stack\StackChallenge2\StackChallenge2\obj\Debug\net7.0\StackChallenge2.AssemblyInfo.cs
+C:\Users\shank\OneDrive\DSA-Tutorials\Stack\StackChallenge2\StackChallenge2\obj\Debug\net7.0\StackChallenge2.csproj.CoreCompileInputs.cache
+C:\Users\shank\OneDrive\DSA-Tutorials\Stack\StackChallenge2\StackChallenge2\obj\Debug\net7.0\StackChallenge2.dll
+C:\Users\shank\OneDrive\DSA-Tutorials\Stack\StackChallenge2\StackChallenge2\obj\Debug\net7.0\refint\StackChallenge2.dll
+C:\Users\shank\OneDrive\DSA-Tutorials\Stack\StackChallenge2\StackChallenge2\obj\Debug\net7.0\StackChallenge2.pdb
+C:\Users\shank\OneDrive\DSA-Tutorials\Stack\StackChallenge2\StackChallenge2\obj\Debug\net7.0\StackChallenge2.genruntimeconfig.cache
+C:\Users\shank\OneDrive\DSA-Tutorials\Stack\StackChallenge2\StackChallenge2\obj\Debug\net7.0\ref\StackChallenge2.dll
