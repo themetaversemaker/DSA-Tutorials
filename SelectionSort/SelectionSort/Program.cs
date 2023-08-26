@@ -26,7 +26,6 @@
                     }
                 }
                 Swapper(userArray, initalPos, index);
-
             }
         }
 
@@ -47,7 +46,6 @@
             for (int i = 0; i < count; i++)
             {
                 userInput[i] = int.Parse(Console.ReadLine());
-
             }
             return userInput;
         }
