@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\shank\\OneDrive\\DSA-Tutorials\\BubbleSort\\BubbleSort\\BubbleSort.csproj",
-      "projectName": "BubbleSort",
-      "projectPath": "C:\\Users\\shank\\OneDrive\\DSA-Tutorials\\BubbleSort\\BubbleSort\\BubbleSort.csproj",
+      "projectUniqueName": "C:\\Users\\shank\\OneDrive\\DSA-Tutorials\\SelectionSort\\SelectionSort\\SelectionSort.csproj",
+      "projectName": "SelectionSort",
+      "projectPath": "C:\\Users\\shank\\OneDrive\\DSA-Tutorials\\SelectionSort\\SelectionSort\\SelectionSort.csproj",
       "packagesPath": "C:\\Users\\shank\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\shank\\OneDrive\\DSA-Tutorials\\BubbleSort\\BubbleSort\\obj\\",
+      "outputPath": "C:\\Users\\shank\\OneDrive\\DSA-Tutorials\\SelectionSort\\SelectionSort\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\shank\\AppData\\Roaming\\NuGet\\NuGet.Config",
