@@ -18,6 +18,7 @@
             {
                 int initalPos = 0;
 
+                //7|9|0|2|5|2
                 for (int i = 1; i <= index; i++)
                 {
                     if (userArray[i] > userArray[initalPos])
