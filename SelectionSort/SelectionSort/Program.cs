@@ -10,12 +10,10 @@
             {
                 Console.WriteLine(i);
             }
-
         }
 
         public static void SelectionSort(int[] userArray)
         {
-
             for (int index = userArray.Length - 1; index > 0; index--)
             {
                 int initalPos = 0;
@@ -26,15 +24,10 @@
                     {
                         initalPos = i;
                     }
-
                 }
                 Swapper(userArray, initalPos, index);
 
             }
-
-            
-
-
         }
 
         public static void Swapper(int[] array, int initalPos, int swappedPos)
