@@ -32,7 +32,7 @@
 
             Console.WriteLine("Largest Value :: "+LargestNumber(values).ToString());
 
-            Console.WriteLine("Largest Value :: "+ SmallNumber(LargestNumber(values),values));
+            Console.WriteLine("Smallest Value :: "+ SmallNumber(LargestNumber(values),values));
         }
 
         public static int LargestNumber(int[] series)
